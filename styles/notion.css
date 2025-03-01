@@ -8,7 +8,7 @@
  */
 
 .notion {
-  --notion-max-width: 900px;
+  --notion-max-width: 1080px;
   --notion-header-height: 54px;
 }
 
@@ -19,6 +19,8 @@
 .notion-page {
   padding-bottom: calc(max(5vh, 32px)) !important;
   line-height: 1.65;
+  max-width: 1080px;
+
 }
 
 .index-page {

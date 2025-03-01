@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'WuShiqi Personal Website',
-  domain: 'nhttps://bevel-pocket-985.notion.site/Wu-Shiqi-1a973b5da35c80b2931ee9ae1dd3248a?pvs=4',
+  domain: 'https://bevel-pocket-985.notion.site/Wu-Shiqi-1a973b5da35c80b2931ee9ae1dd3248a',
   author: 'Wu Shiqi',
 
   // open graph metadata (optional)
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: 'Shiqi-Wu',
-  linkedin: 'https://www.linkedin.com/in/shiqi-wu-0aa667234/',
+  linkedin: 'shiqi-wu-0aa667234/',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`

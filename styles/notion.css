@@ -17,11 +17,9 @@
 }
 
 .notion-page {
-  padding: 32px;
-  margin: auto;
-  max-width: 900px;
+  padding-bottom: calc(max(5vh, 32px)) !important;
+  line-height: 1.65;
 }
-
 
 .index-page {
   --notion-max-width: 900px;
@@ -403,5 +401,5 @@
 }
 
 .notion-equation.notion-equation-block{
-  align-items: center;
+  align-items: left;
 }

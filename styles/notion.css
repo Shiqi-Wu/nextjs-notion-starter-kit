@@ -64,9 +64,9 @@
 /* 调整 Notion 目录（Table of Contents, TOC）样式 */
 .notion-table-of-contents {
   position: fixed;
-  right: 16px;
+  right: 12px;
   top: 100px;
-  width: 120px;
+  width: 100px;
   background: white;
   border-radius: 8px;
   box-shadow: 0px 0px 10px rgba(28, 36, 50, 0.1);

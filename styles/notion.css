@@ -140,7 +140,18 @@
 }
 
 .notion-hr {
-  margin: 0.5em 0;
+  margin: 0em 0;
+}
+
+.notion-table-of-contents {
+    position: fixed;
+    right: 16px;
+    top: 100px;
+    width: 200px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 12px;
 }
 
 @media only screen and (max-width: 920px) {
@@ -404,4 +415,15 @@
 
 .notion-equation.notion-equation-block{
   align-items: left;
+}
+
+.notion-table-of-contents {
+  position: fixed;
+  right: 16px;
+  top: 100px;
+  width: 200px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  padding: 12px;
 }
